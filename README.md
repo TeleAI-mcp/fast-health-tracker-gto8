@@ -1,2 +1,3 @@
-# fast-health-tracker-gto8
+# Fast Health Tracker Gto8
+
 A repository to test GitHub automation for issue management.
